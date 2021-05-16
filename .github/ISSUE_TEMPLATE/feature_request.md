@@ -1,7 +1,7 @@
 ---
-name: Feature request
+name: \U0001F680 Feature request
 about: Request a new feature
-title: ":rocket: - "
+title: "\U0001F680 - "
 labels: enhancement
 assignees: ''
 
